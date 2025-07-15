@@ -1,6 +1,8 @@
 [submodule "Prototype1"]
 	path = Prototype1
 	url = https://github.com/Kowakoma/unityPrototype1.git
+	branch = main
 [submodule "Prototype2"]
 	path = Prototype2
 	url = https://github.com/Kowakoma/unityPrototype2.git
+	branch = main
