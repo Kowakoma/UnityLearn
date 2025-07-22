@@ -6,3 +6,6 @@
 	path = Prototype2
 	url = https://github.com/Kowakoma/unityPrototype2.git
 	branch = main
+[submodule "UnityPersonalProject"]
+	path = UnityPersonalProject
+	url = https://github.com/Kowakoma/UnityPersonalProject.git
