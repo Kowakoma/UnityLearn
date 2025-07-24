@@ -9,3 +9,6 @@
 [submodule "PersonalProject"]
 	path = PersonalProject
 	url = https://github.com/Kowakoma/unityPersonalProject.git
+[submodule "ModTheCube"]
+	path = ModTheCube
+	url = https://github.com/Kowakoma/unityModTheCube.git
