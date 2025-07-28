@@ -12,3 +12,6 @@
 [submodule "ModTheCube"]
 	path = ModTheCube
 	url = https://github.com/Kowakoma/unityModTheCube.git
+[submodule "Prototype3"]
+	path = Prototype3
+	url = https://github.com/Kowakoma/unityPrototype3.git
