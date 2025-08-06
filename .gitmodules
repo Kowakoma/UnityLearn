@@ -15,3 +15,6 @@
 [submodule "Prototype3"]
 	path = Prototype3
 	url = https://github.com/Kowakoma/unityPrototype3.git
+[submodule "Prototype4"]
+	path = Prototype4
+	url = https://github.com/Kowakoma/Prototype4.git
