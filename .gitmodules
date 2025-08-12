@@ -18,3 +18,6 @@
 [submodule "Prototype4"]
 	path = Prototype4
 	url = https://github.com/Kowakoma/Prototype4.git
+[submodule "Prototype5"]
+	path = Prototype5
+	url = https://github.com/Kowakoma/Prototype5.git
